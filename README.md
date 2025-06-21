@@ -7,7 +7,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=theashutoshmishrs" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=theashutoshmishra" alt="GitHub Streak" />
 </p>
 
 <p align="left"> <a href="https://twitter.com/@ashutoshmi17031" target="blank"><img src="https://img.shields.io/twitter/follow/@ashutoshmi17031?logo=twitter&style=for-the-badge" alt="@ashutoshmi17031" /></a> </p>
