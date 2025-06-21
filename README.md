@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Frontend Developer | 💻 Tech Enthusiast | 🇮🇳 India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hi%2C+I'm+Ashutosh+Mishra;Frontend+Dev+from+India;Love+Building+Web+Experiences+💻;Always+Learning+📚+Creating+💡+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Ashutosh+Mishra;Frontend+Developer+from+India;I+love+to+build+cool+web+apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theashutoshmishra&theme=algolia&margin-w=10" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theashutoshmishra&theme=algolia&margin-w=10&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=theashutoshmishra&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=theashutoshmishra&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -35,11 +35,10 @@
 ### 🧑‍💻 About Me
 
 - 🌱 Currently exploring **MERN Stack**
-- 🎯 Focused on **Problem Solving, UI/UX**, and **Real-world Projects**
-- ✍️ I write clean and scalable code.
+- 💬 Ask me about **JavaScript | React | Node.js | Python**
 - 📫 Reach me at: **talktoashutoshmishra@gmail.com**
-- 🔗 [My Portfolio](https://theashutoshmishra.github.io/portfolio/)
-- 📄 [My Resume](https://github.com/TheAshutoshMishra/resume/blob/main/Ashutosh_Mishra_Resume.pdf)
+- 📁 Portfolio: [Visit My Portfolio](https://theashutoshmishra.github.io/portfolio/)
+- 📄 Resume: [Download Resume PDF](https://github.com/TheAshutoshMishra/resume/blob/main/Ashutosh_Mishra_Resume.pdf)
 
 ---
 
@@ -72,13 +71,10 @@
 
 ---
 
-### ✨ Fun Fact
+### ✨ Fun Quote
 
-> "Consistency is 🔥. Passion is 💯. Learning is 🔁."
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohit19060/rohit19060/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — _Ashutosh Mishra_
 
 ---
 
