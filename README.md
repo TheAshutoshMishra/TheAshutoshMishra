@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">🚀 Passionate Frontend Developer | 💻 Tech Enthusiast | 🇮🇳 India</h3>
 
@@ -75,6 +76,22 @@
 
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > — _Ashutosh Mishra_
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theashutoshmishra/theashutoshmishra/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### 💻 Just Keep Coding...
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400"/>
+</p>
 
 ---
 
