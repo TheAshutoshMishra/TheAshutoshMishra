@@ -4,6 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theashutoshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="theashutoshmishra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theashutoshmishra" alt="theashutoshmishra" /></a> </p>
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=theashutoshmishrs" alt="GitHub Streak" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/@ashutoshmi17031" target="blank"><img src="https://img.shields.io/twitter/follow/@ashutoshmi17031?logo=twitter&style=for-the-badge" alt="@ashutoshmi17031" /></a> </p>
 
