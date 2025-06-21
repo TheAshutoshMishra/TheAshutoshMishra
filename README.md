@@ -1,9 +1,15 @@
+
 <!-- Hero Section -->
 <h1 align="center">Hey 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">🚀 Passionate Frontend Developer | 💻 Tech Enthusiast | 🇮🇳 India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi%2C+I'm+Ashutosh+Mishra;A+Curious+Frontend+Dev+from+India;Love+Building+Web+Experiences+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A+Creating+%F0%9F%96%A5%EF%B8%8F+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hi%2C+I'm+Ashutosh+Mishra;A+Curious+Frontend+Dev+from+India;Love+Building+Web+Experiences+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A+Creating+%F0%9F%96%A5%EF%B8%8F+Improving" alt="Typing SVG" />
+</p>
+
+<!-- Background Image Hack -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohit19060/rohit19060/output/github-contribution-grid-snake-dark.svg" alt="night stars" width="100%"/>
 </p>
 
 ---
@@ -17,13 +23,13 @@
 
 <p align="center">
   <a href="https://github.com/theashutoshmishra">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theashutoshmishra&show_icons=true&theme=radical&count_private=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashutoshmishra&layout=compact&theme=radical&langs_count=8" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theashutoshmishra&show_icons=true&theme=dark&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashutoshmishra&layout=compact&theme=dark&langs_count=8" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=theashutoshmishra&theme=radical&border_radius=5&mode=weekly&type=svg" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=theashutoshmishra&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
