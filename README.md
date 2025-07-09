@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Passionate Frontend Developer | 💻 Tech Enthusiast | 🇮🇳 India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Ashutosh+Mishra;Frontend+Developer+from+India;I+love+to+build+cool+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue0&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Ashutosh+Mishra;Frontend+Developer+from+India;I+love+to+build+cool+web+apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,9 +20,10 @@
 
 <p align="center">
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=theashutoshmishra&show_icons=true&theme=radical&count_private=true" />
-  <img width="32%" src="https://github-readme-streak-stats.demolab.com?user=theashutoshmishra&theme=radical" />
+  <img width="32%" src="https://streak-stats.demolab.com?user=theashutoshmishra&theme=radical" />
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashutoshmishra&layout=compact&theme=radical" />
 </p>
+
 
 
 
