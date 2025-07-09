@@ -20,9 +20,10 @@
 
 <p align="center">
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=theashutoshmishra&show_icons=true&theme=radical&count_private=true" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=theashutoshmishra&theme=radical" />
+  <img width="32%" src="https://github-readme-streak-stats.demolab.com?user=theashutoshmishra&theme=radical" />
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashutoshmishra&layout=compact&theme=radical" />
 </p>
+
 
 
 ---
