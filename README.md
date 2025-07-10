@@ -11,7 +11,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="69" src="https://github-profile-trophy.vercel.app/?username=theashutoshmishra&theme=algolia&margin-w=10&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theashutoshmishra&theme=algolia&margin-w=10&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
