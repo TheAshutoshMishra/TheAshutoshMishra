@@ -36,21 +36,24 @@
 const ashutosh = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
-    code: ["JavaScript", "Python", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Flask", "Django"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "GitHub", "VS Code", "Postman"]
+    code: ["C++", "C", "Python", "JavaScript", "HTML", "CSS"],
+    frameworks: ["React", "Vite"],
+    tools: ["Git", "GitHub", "GitLab", "VS Code"],
+    platforms: ["Vercel", "Netlify", "Render"],
+    education: {
+        degree: "B.Tech in CSE",
+        university: "Dr. A.P.J. Abdul Kalam Technical University",
+        gpa: "8.30"
     },
-    currentFocus: "Building scalable MERN applications",
-    funFact: "I debug with console.log() 🤫"
+    competencies: ["Data Structures & Algorithms", "OOP", "Program Management", "Team Leadership"],
+    problemsSolved: "160+ DSA problems (LeetCode, GFG, CodeChef)",
+    achievements: [
+        "IIT Bombay i-HACK: 2nd Runner Up",
+        "Smart India Hackathon: Top 10 Finalist",
+        "Systems Lead at ZenYukti (1,300+ members)"
+    ],
+    currentRole: "Systems Lead at ZenYukti",
+    contact: "dev.ashutoshmishra@gmail.com"
 };
 ```
 
@@ -61,13 +64,14 @@ const ashutosh = {
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Quick Highlights
 
-- 🔭 Currently working on **Full Stack MERN Projects**
-- 🌱 Learning **Next.js, TypeScript & System Design**
-- 💬 Ask me about **React, Node.js, MongoDB, JavaScript**
-- 📫 Reach me: **talktoashutoshmishra@gmail.com**
-- ⚡ Fun fact: **Coffee + Code = Magic** ☕💻✨
-- 🎯 2026 Goal: **Contribute to Major Open Source Projects**
-- 🌟 Hobby: **Building Cool Stuff & Problem Solving**
+- 🎓 **B.Tech CSE** Student at **Dr. A.P.J. Abdul Kalam Technical University** (GPA: 8.30)
+- 🏆 **IIT Bombay i-HACK**: 2nd Runner Up | **SIH**: Top 10 Finalist (350+ teams)
+- 💼 **Systems Lead** at ZenYukti (1,300+ members)
+- 💻 **160+ DSA problems** solved across LeetCode, GFG & CodeChef
+- 🔧 Proficient in **C++, Python, JavaScript, React, Git**
+- 🌐 Platforms: **Vercel, Netlify, Render**
+- 📫 Reach me: **dev.ashutoshmishra@gmail.com**
+- 🎯 Focus: **Open-Source Contributions & System Architecture**
 
 </div>
 
@@ -82,19 +86,22 @@ const ashutosh = {
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,nodejs,express,mongodb,python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,vite" />
 </p>
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,yarn,webpack,vite,babel,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,netlify" />
 </p>
 
-### ☁️ Cloud & DevOps
+### 🎯 Core Competencies
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,netlify,vercel,heroku,firebase,mysql,postgres" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Program_Management-45B7D1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team_Leadership-FFA07A?style=for-the-badge" />
 </p>
 
 </div>
@@ -211,9 +218,7 @@ const ashutosh = {
 
 <div align="center">
 
-If you like my work, consider giving a ⭐ to my repositories!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ashutoshmishra)
+If you like my work, consider giving a ⭐ to my repositories and following me on GitHub!
 
 </div>
 
