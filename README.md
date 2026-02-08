@@ -10,7 +10,7 @@
 
 <!-- Animated Typing Text with Rainbow Colors -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%F0%9F%91%8B+Hey+There!+I'm+Ashutosh+Mishra;%F0%9F%9A%80+Full+Stack+MERN+Developer;%F0%9F%92%BB+Building+Beautiful+Web+Experiences;%E2%9C%A8+Let's+Create+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%F0%9F%91%8B+Hey+There!+I'm+Ashutosh+Mishra;+Let's+Create+Something+Amazing!" alt="Typing SVG" />
 </a>
 
 <!-- Colorful Badges -->
